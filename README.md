@@ -3,5 +3,5 @@
 
 <b>UI of the project </b>
 <div>
-<img src="APP/UI/grid.png" />
+<img src="app/UI/grid.png" />
 </div>
